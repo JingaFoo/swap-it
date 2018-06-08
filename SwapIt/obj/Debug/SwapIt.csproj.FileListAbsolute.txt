@@ -1,0 +1,7 @@
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\bin\Debug\SwapIt.exe.config
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\bin\Debug\SwapIt.exe
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\bin\Debug\SwapIt.pdb
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\obj\Debug\SwapIt.csprojAssemblyReference.cache
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\obj\Debug\SwapIt.csproj.CoreCompileInputs.cache
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\obj\Debug\SwapIt.exe
+D:\Projects\C# Learn\UnitTesting\SwapIt\SwapIt\obj\Debug\SwapIt.pdb
